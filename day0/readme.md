@@ -6,8 +6,11 @@
 보다 효율적인 접근 방식을 고민해보고,
 이를 기준으로 코드를 재구성해보았다.
 
+---
+## 시간을 효율적으로 줄여보았다.
 <img src="https://github.com/ulsidae/for-Samsung/blob/main/day0/0_1.jpg" height="400"/>
-^시간을 효율적으로 줄여보았다.
 
-<img src="https://github.com/ulsidae/for-Samsung/blob/main/day0/0_2.jpg" height="800"/>
-^코드길이를 효율적으로 줄여보았다.
+---
+## 코드길이를 효율적으로 줄여보았다.
+<img src="https://github.com/ulsidae/for-Samsung/blob/main/day0/0_2.jpg" height="600"/>
+
