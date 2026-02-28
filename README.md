@@ -1,6 +1,6 @@
 ## 🍯 Handwritten Notes
 
-These notes were originally handwritten during my studies
+These annotated study notes were originally handwritten during my studies
 and have been reorganized and summarized for clarity.
 
 ---
@@ -16,4 +16,5 @@ All content is written in Korean.
 모든 내용은 한국어로 작성되어 있습니다.
 
 
+Focused on understanding why solutions work, not just making them pass test cases.
 Ongoing — continuously updated as my problem-solving and optimization skills evolve.
