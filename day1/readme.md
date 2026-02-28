@@ -9,5 +9,5 @@
 <img src="https://github.com/ulsidae/for-Samsung/blob/main/day1/1_0.jpg" height="600"/>
 
 ---
-## day0에서 연구한 계산을 신속하게 만들 아이디어를 적용해보았다.
+## day0및 앞에서 연구한 계산을 신속하게 만들 아이디어를 적용해보았다.
 <img src="https://github.com/ulsidae/for-Samsung/blob/main/day1/1_1.jpg" height="600"/>
