@@ -7,9 +7,9 @@
 그리고 이러한 결론을 이용해 코드를 만들어 보았다.
 
 ---
-## 
-<img src="" height="540"/>
+## day2&3에 쓴 메모를 기반으로 이중Σ의 성질에 대해 탐구해보았다.
+<img src="https://github.com/ulsidae/for-Samsung/blob/main/day4/01.jpg" height="540"/>
 
 ---
-## 
-<img src="" height="800"/>
+## 탐구한 내용을 기반으로 이중Σ를 이용한 코드를 제작해보았다. 
+<img src="https://github.com/ulsidae/for-Samsung/blob/main/day4/00.jpg" height="800"/>
